@@ -37,7 +37,7 @@ do
 
 if(age < 18)
 {
-    Console.WriteLine("Du är inte myndig och får handla på Systembolaget.")
+    Console.WriteLine("Du är inte myndig och får handla på Systembolaget.");
     //Console.WriteLine("Du får inte handla på Systembolaget");
 }
 else if(age < 20)
